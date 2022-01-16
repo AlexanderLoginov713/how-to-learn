@@ -180,7 +180,7 @@
   font-weight: bold;
 }
 
-/* Стили и ограничения заголовка блока digits*/
+/* Стили и ограничения заголовка блока digits */
 .section-title {
   width: 60%;
   margin: 100px auto 20px;
@@ -200,7 +200,7 @@
   text-align: center;
 }
 
-/* Ограничения и выравнивания для таблицы блока digits*/
+/* Ограничения и выравнивания для таблицы блока digits */
 .table {
   width: 1100px;
   display: flex;
@@ -209,7 +209,7 @@
   flex-wrap: wrap;
 }
 
-/* Стили ячеек таблицы блока digits*/
+/* Стили ячеек таблицы блока digits */
 .table__cell {
   width: 250px;
   display: flex;
@@ -218,7 +218,7 @@
   flex-wrap: wrap;
 }
 
-/* Стили заголовка таблицы блока digits*/
+/* Стили заголовка таблицы блока digits */
 .table__heading {
   margin: 0;
   line-height: 1.15;
@@ -226,7 +226,7 @@
   font-weight: bold;
 }
 
-/* Стили текста таблицы блока digits*/
+/* Стили текста таблицы блока digits */
 .table__text {
   margin: 20px 0 0;
   line-height: 1.2;
@@ -234,7 +234,7 @@
   font-weight: normal;
 }
 
-/* Стили и ограничения заголовка блока feynman*/
+/* Стили и ограничения заголовка блока feynman */
 .feynman__title {
   width: 648px;
   display: flex;
@@ -246,7 +246,7 @@
   z-index: 3;
 }
 
-/* Стили и ограничения подзаголовка блока feynman*/
+/* Стили и ограничения подзаголовка блока feynman */
 .feynman__subtitle {
   margin: 0;
   line-height: 51px;
@@ -256,7 +256,7 @@
   z-index: 2;
 }
 
-/*Размещение портрета Фейнмана*/
+/*Размещение портрета Фейнмана */
 .feynman__img {
   width: 867px;
   height: 637px;
@@ -265,7 +265,7 @@
   bottom: 0;
 }
 
-/*Стили ссылок блока feynman*/
+/*Стили ссылок блока feynman */
 .feynman__link {
   margin: 0;
   position: absolute;
@@ -279,7 +279,7 @@
   z-index: 2;
 }
 
-/* Стили заголовка темной темы блок kaufman*/
+/* Стили заголовка темной темы блок kaufman */
 .section-title_theme_dark {
   margin-top: 90px;
   line-height: 1.15;
@@ -289,7 +289,7 @@
   z-index: 2;
 }
 
-/* Стили подзаголовка темной темы блок kaufman*/
+/* Стили подзаголовка темной темы блок kaufman */
 .section-subtitle_theme_dark {
   line-height: 34px;
   font-size: 24px;
@@ -298,13 +298,13 @@
   z-index: 2;
 }
 
-/* Размещение таблицы*/
+/* Размещение таблицы */
 .table_theme_dark {
   margin: 0 auto 90px;
   z-index: 2;
 }
 
-  /* Стили ячеек темной темы таблицы*/
+  /* Стили ячеек темной темы таблицы */
 .table__cell_theme_dark {
   width: 200px;
   color: #fff;
@@ -313,20 +313,21 @@
   z-index: 2;
 }
 
-/* Стили заголовков темной темы таблицы*/
+/* Стили заголовков темной темы таблицы */
 .table__heading_theme_dark {
   line-height: 1.15;
   font-size: 24px;
   font-weight: bold;
 }
 
+/* Стили текста темной темы таблицы */
 .table__text_theme_dark {
   line-height: 1.2;
   font-size: 18px;
   font-weight: normal;
 }
 
-/*Размещение треукольника*/
+/* Размещение треукольника */
 .kaufman__triangle {
   width: 877px;
   height: 877px;
