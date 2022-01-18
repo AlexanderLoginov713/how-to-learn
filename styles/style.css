@@ -55,18 +55,18 @@
 
 /* Расположение логотипа в шапке */
 .logo_place_header {
-  position:absolute;
+  position: absolute;
   top: 30px;
   left: 64px;
-  background-image: url(./images/logo_place_header.svg);
+  background-image: url(/images/logo_place_header.svg);
   background-size: contain;
 }
 
 /* Расположение логотипа в футере */
 .logo_place_footer {
   width: 183px;
-  height:  35px;
-  background-image: url(./images/logo_place_footer.svg);
+  height: 35px;
+  background-image: url(/images/logo_place_footer.svg);
   background-size: contain;
   background-repeat: no-repeat;
 }
