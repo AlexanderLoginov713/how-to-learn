@@ -191,7 +191,7 @@
   text-align: center;
 }
 
-/* Стили и ограничения подзаголовка блока digits*/
+/* Стили и ограничения подзаголовка блока digits */
 .section-subtitle {
   width: 60%;
   margin: auto;
@@ -266,7 +266,7 @@
   bottom: 0;
 }
 
-/*Стили ссылок блока feynman */
+/* Стили ссылок блока feynman */
 .feynman__link {
   margin: 0;
   position: absolute;
@@ -377,7 +377,7 @@
   color: #fff;
 }
 
-/*Расоложение блока ссылок в футере*/
+/* Расоложение блока ссылок в футере */
 .footer__column-links {
   margin: 20px 0 16px;
   display: flex;
