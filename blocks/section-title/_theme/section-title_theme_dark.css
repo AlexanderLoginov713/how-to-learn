@@ -1,0 +1,9 @@
+/* # Стили заголовка темной темы */
+.section-title_theme_dark {
+    margin: 0;
+    line-height: 1.15;
+    font-size: 50px;
+    font-weight: bold;
+    color: #FFFFFF;
+    z-index: 2;
+  }

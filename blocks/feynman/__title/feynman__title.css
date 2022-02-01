@@ -1,0 +1,12 @@
+/* Стили и ограничения заголовка блока feynman */
+.feynman__title {
+    max-width: 648px;
+    display: flex;
+    margin: 0;
+    padding-bottom: 70px;
+    line-height: 1.15;
+    font-size: 120px;
+    font-weight: bold;
+    text-align: center;
+    z-index: 3;
+  }

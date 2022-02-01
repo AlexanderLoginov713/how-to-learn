@@ -1,0 +1,12 @@
+/* Стили абзацев основного текста блока description */
+.two-columns__paragraph {
+    margin: 0;
+    line-height: 34px;
+    font-size: 24px;
+    font-weight: normal;
+  }
+
+/*Установка нижнего внешнего отступа для всех параграфов, кроме последнего */
+.two-columns__paragraph:not(:last-child) {
+  margin-bottom: 30px;
+}

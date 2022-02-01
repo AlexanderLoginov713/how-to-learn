@@ -1,0 +1,9 @@
+/* Стили и ограничения подзаголовка блока feynman */
+.feynman__subtitle {
+    margin: 0;
+    line-height: 51px;
+    font-size: 36px;
+    font-weight: normal;
+    text-align: center;
+    z-index: 2;
+  }

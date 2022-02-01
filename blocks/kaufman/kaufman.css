@@ -1,0 +1,11 @@
+/* Ограничения и выравнивание содержимого блока kayfman */
+.kaufman {
+    padding: 90px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color:  #1f1f1f;
+    position: relative;
+    overflow: hidden;
+  }
+

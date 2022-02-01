@@ -1,0 +1,5 @@
+/* Выравнивание содержимого колонок футера */
+.footer__column {
+    display: flex;
+    flex-direction: column;
+  }
