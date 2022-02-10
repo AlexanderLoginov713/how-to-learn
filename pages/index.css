@@ -21,11 +21,6 @@
 @import url(../blocks/cards/cards.css);
 @import url(../blocks/cards/__item/cards__item.css);
 @import url(../blocks/cards/__image/cards__image.css);
-@import url(../blocks/cards/__image/_background/cards__image_background_attention.css);
-@import url(../blocks/cards/__image/_background/cards__image_background_recall.css);
-@import url(../blocks/cards/__image/_background/cards__image_background_interliving.css);
-@import url(../blocks/cards/__image/_background/cards__image_background_question.css);
-@import url(../blocks/cards/__image/_background/cards__image_background_competence.css);
 @import url(../blocks/cards/__title/cards__title.css);
 @import url(../blocks/cards/__description/cards__description.css);
 
@@ -57,7 +52,6 @@
 @import url(../blocks/feynman/feynman.css);
 @import url(../blocks/feynman/__title/feynman__title.css);
 @import url(../blocks/feynman/__subtitle/feynman__subtitle.css);
-@import url(../blocks/feynman/__img/feynman__img.css);
 @import url(../blocks/feynman/__link/feynman__link.css);
 
 @import url(../blocks/kaufman/kaufman.css);

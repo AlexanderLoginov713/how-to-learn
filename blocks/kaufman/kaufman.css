@@ -1,6 +1,7 @@
 /* Ограничения и выравнивание содержимого блока kayfman */
 .kaufman {
-    padding: 90px;
+    padding-top: 90px;
+    padding-bottom: 90px;
     display: flex;
     align-items: center;
     flex-direction: column;
