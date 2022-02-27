@@ -1,8 +1,7 @@
 # how-to-learn
 A typical one-page website created according to a given training brief. 
-Dedicated to traveling around the country which displays correctly on popular screen sizes.
-Objective: to acquire layout skills while creating a addaptive website. 
+Dedicated to effective learning techniques.
+Objective: to acquire layout skills while creating a website.
 Technologies used: 
-* HTML.
-* CSS (Grid, Flex, media queries).
-* 
+* HTML 
+* CSS
