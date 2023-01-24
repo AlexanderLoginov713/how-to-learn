@@ -5,4 +5,4 @@ Objective: to acquire layout skills while creating a website.
 Technologies used: 
 * HTML 
 * CSS
-https://alexanderloginov713.github.io/how-to-learn/
+### https://alexanderloginov713.github.io/how-to-learn/
